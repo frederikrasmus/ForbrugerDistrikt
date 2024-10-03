@@ -1,0 +1,10 @@
+Lene Sørensen,5,Maria Pedersen,4,Christian Andersen,3,Anne Sørensen,6,Martin Christensen,7,Anna Hansen,8,Jan Andersen,9,Hanne Jørgensen,0,Peter Andersen,1,Peter Nielsen,2,Henrik Rasmussen,5,Marianne Larsen,4,Peter Jensen,2,Peter Larsen,0,Anne Rasmussen,6,Maria Christensen,8,Anna Hansen,7,Anna Hansen,3,Jens Pedersen,9,Jens Nielsen,1,Anne Nielsen,8,Anna Nielsen,0,Hanne Jensen,1,Thomas Hansen,7,Anne Pedersen,4,Martin Jensen,6,Michael Jørgensen,9,Jan Christensen,2,Hanne Rasmussen,5,Susanne Nielsen,3,Anna Jensen,0,Peter Nielsen,5,Lene Sørensen,7,Susanne Christensen,1,Martin Hansen,6,Marianne Jensen,2,Søren Pedersen,9,Peter Jørgensen,3,Lars Sørensen,4,Søren Andersen,8,Hanne Pedersen,5,Henrik Jørgensen,8,Lene Hansen,7,Lars Hansen,6,Mette Jensen,0,Christian Sørensen,4,Mette Nielsen,2,Peter Rasmussen,9,Helle Hansen,3,Kirsten Larsen,1,Christian Larsen,9,Lars Hansen,5,Anna Pedersen,1,Maria Nielsen,3,Thomas Christensen,0,Susanne Hansen,6,Søren Hansen,4,Kirsten Pedersen,8,Anne Jørgensen,2,Helle Pedersen,7,Søren Larsen,8,Mette Jensen,9,Søren Nielsen,4,Anna Christensen,5,Susanne Jensen,6,Mette Sørensen,7,Anne Sørensen,3,Jan Christensen,2,Henrik Christensen,1,Peter Sørensen,0,Hanne Sørensen,3
+Michael Christensen,0
+Hanne Nielsen,8
+Maria Pedersen,4
+Peter Andersen,7
+Martin Nielsen,5
+Hanne Andersen,9
+Jan Sørensen,6
+Peter Sørensen,1
+Christian Jørgensen,2

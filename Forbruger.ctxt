@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Forbruger
+comment0.text=\r\n\ En\ klasse\ for\ forbruger.\ Vi\ kan\ bruge\ forbruger\ i\ klassen\ Distrikt.\r\n\ @Frederik\r\n\ @17.September\ 2024\r\n
+comment1.params=
+comment1.target=Forbruger()
+comment2.params=n\ mNr\ mMax
+comment2.target=Forbruger(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=int\ getMaalerNr()
+comment4.params=setNavn
+comment4.target=void\ setNavn(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNavn()
+comment6.params=aflaesning
+comment6.target=void\ aflaesMaaler(int)
+comment7.params=
+comment7.target=int\ beregnForbrug()
+numComments=8

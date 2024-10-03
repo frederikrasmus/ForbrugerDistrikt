@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Distrikt
+comment0.text=\r\n\ @author\ Frederik\r\n\ @version\ 27.\ September\ 2024\r\n
+comment1.params=
+comment1.target=Distrikt()
+comment10.params=n
+comment10.target=int\ antalGangeForekommer(java.lang.String)
+comment2.params=etNavn\ enPris
+comment2.target=Distrikt(java.lang.String,\ double)
+comment3.params=antal
+comment3.target=void\ genererForbruger(int)
+comment4.params=enForbruger
+comment4.target=void\ addForbruger(Forbruger)
+comment5.params=maalerNummer
+comment5.target=int\ afregnForbruger(int)
+comment6.params=i
+comment6.target=Forbruger\ getForbruger(int)
+comment7.params=
+comment7.target=int\ getAntalForbrugere()
+comment8.params=
+comment8.target=int\ fordelingPigeNavne()
+comment9.params=
+comment9.target=int\ fordelingDrengeNavne()
+numComments=11
